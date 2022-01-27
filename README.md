@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhikad
+- 👋 Hi, I’m @Abhishek Kad
 - 👀 I’m interested in ... Data Science, Data Analyst
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ... Projects
